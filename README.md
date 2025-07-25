@@ -73,19 +73,9 @@ Models were evaluated using:
 
 ---
 
-## ✍️ Author
-
-**C. Nayum Akthar**  
-Student ID: BU22CSEN0101361
-
----
-
 ## 📄 References
 
 - Waugh A., Grant A., Ross and Wilson Anatomy and Physiology
 - PMC & PubMed Articles on Dental Caries
 - Nature Scientific Reports: YOLO in Dental Imaging
 
----
-
-> ⚠️ *Note*: This project is for academic and research purposes. Not intended for clinical use.
